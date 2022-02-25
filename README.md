@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nurilhudaguney
 - 👀 I’m interested in c++, python, android sdk.
 - 🌱 I’m currently learning python
-- 📫 How to reach me : linkedin.com/in/nurilhudaguney , icq: nurilhuda
+- 📫 How to reach me : linkedin.com/in/nurilhudaguney , icq: nurilhuda , nurilhudaguney@gmail.com
 
 <!---
 nurilhudaguney/nurilhudaguney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
